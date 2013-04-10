@@ -4,3 +4,6 @@
 [submodule "vim-addon-manager-known-repositories"]
 	path = vim-addon-manager-known-repositories
 	url = https://github.com/MarcWeber/vim-addon-manager-known-repositories.git
+[submodule "powerline"]
+	path = powerline
+	url = https://github.com/Lokaltog/powerline.git
