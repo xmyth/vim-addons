@@ -16,3 +16,15 @@
 [submodule "surround"]
 	path = surround
 	url = https://github.com/tpope/vim-surround.git
+[submodule "tlib"]
+	path = tlib
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "vim-addon-mw-utils"]
+	path = vim-addon-mw-utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "snipmate"]
+	path = snipmate
+	url = https://github.com/garbas/vim-snipmate.git
+[submodule "snippets"]
+	path = snippets
+	url = https://github.com/honza/vim-snippets.git
