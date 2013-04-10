@@ -28,3 +28,6 @@
 [submodule "snippets"]
 	path = snippets
 	url = https://github.com/honza/vim-snippets.git
+[submodule "supertab"]
+	path = supertab
+	url = https://github.com/ervandew/supertab.git
