@@ -1,36 +1,36 @@
 [submodule "vim-addon-manager"]
 	path = vim-addon-manager
-	url = https://github.com/MarcWeber/vim-addon-manager.git
+	url = http://github.com/MarcWeber/vim-addon-manager.git
 [submodule "vim-addon-manager-known-repositories"]
 	path = vim-addon-manager-known-repositories
-	url = https://github.com/MarcWeber/vim-addon-manager-known-repositories.git
+	url = http://github.com/MarcWeber/vim-addon-manager-known-repositories.git
 [submodule "powerline"]
 	path = powerline
-	url = https://github.com/Lokaltog/powerline.git
+	url = http://github.com/Lokaltog/powerline.git
 [submodule "tabular"]
 	path = tabular
-	url = https://github.com/godlygeek/tabular.git
+	url = http://github.com/godlygeek/tabular.git
 [submodule "nerdcommenter"]
 	path = nerdcommenter
-	url = https://github.com/scrooloose/nerdcommenter.git
+	url = http://github.com/scrooloose/nerdcommenter.git
 [submodule "surround"]
 	path = surround
-	url = https://github.com/tpope/vim-surround.git
+	url = http://github.com/tpope/vim-surround.git
 [submodule "tlib"]
 	path = tlib
-	url = https://github.com/tomtom/tlib_vim.git
+	url = http://github.com/tomtom/tlib_vim.git
 [submodule "vim-addon-mw-utils"]
 	path = vim-addon-mw-utils
-	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+	url = http://github.com/MarcWeber/vim-addon-mw-utils.git
 [submodule "snipmate"]
 	path = snipmate
-	url = https://github.com/garbas/vim-snipmate.git
+	url = http://github.com/garbas/vim-snipmate.git
 [submodule "snippets"]
 	path = snippets
-	url = https://github.com/honza/vim-snippets.git
+	url = http://github.com/honza/vim-snippets.git
 [submodule "supertab"]
 	path = supertab
-	url = https://github.com/ervandew/supertab.git
+	url = http://github.com/ervandew/supertab.git
 [submodule "Command-T"]
 	path = Command-T
-	url = https://github.com/wincent/Command-T.git
+	url = http://github.com/wincent/Command-T.git
